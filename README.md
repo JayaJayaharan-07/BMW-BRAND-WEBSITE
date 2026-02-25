@@ -21,4 +21,5 @@ The main objective of this project is to design and develop a premium automobile
 
 OUTPUT:
 
-<img width="1920" height="5953" alt="screencapture-file-C-Users-User-OneDrive-Documents-Desktop-realestate-project-index-html-2026-02-25-10_40_09" src="https://github.com/user-attachments/assets/055e4999-ed66-4a58-9a4f-0ac8f75d20cb" />
+<img width="1920" height="5490" alt="screencapture-file-C-Users-User-OneDrive-Documents-Desktop-iphone-vid-index-html-2026-02-25-10_45_41" src="https://github.com/user-attachments/assets/bc90cfd8-c34f-4056-90b4-76ca1a408e26" />
+
